@@ -12,7 +12,7 @@
      padding-left: 142px;
      padding-right: 60%;
      /* text-align: -webkit-right; */
-     font-family: 'Raleway Black', arial;
+     font-family: "Raleway Black", arial;
      color: #303030;
      font-size: 140px;
      font-weight: 900;
@@ -30,21 +30,21 @@
  }
  .vip {
      font-size: 146%;
-     font-family: 'Roboto Black', arial;
+     font-family: "Roboto Black", arial;
      color: rgb(225, 0, 17);
  }
  .rot {
      padding-left: 35%;
  }
  .a {
-     font-family: 'Roboto Medium', arial;
+     font-family: "Roboto Medium", arial;
  }
  .rtv {
-     font-family: 'Roboto Light', arial;
+  font-family: "Roboto Light", arial;
  }
  .pro {
      font-size: 142%;
-     font-family: 'Roboto Light', arial;
+     font-family: "Roboto Light", arial;
      line-height: 150%;
  }
  .lsd {
@@ -57,7 +57,7 @@
      padding-bottom: 35px;
  }
  .qwerty {
-     font-family: 'Roboto Black', arial;
+     font-family: "Roboto Black", arial;
      font-size: 265%;
      /* margin: auto; */
      display: inline-block;
